@@ -57,7 +57,7 @@
 Инструкция по запуску:  
 
 ```bash
-cd *ваш путь к папке TestRaspitinIlya*
+cd *ваш путь к папке со скриптом*
 
 pip install -r requirements.txt
 
